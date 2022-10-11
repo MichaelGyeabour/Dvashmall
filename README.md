@@ -1,3 +1,3 @@
-# Dvashmall
+# Dvash Marketplace
 CPG Commerce
-www.dvashmall.com
+www.dvashmarketplace.com
